@@ -1,0 +1,11 @@
+{
+    "name": "azjezz/fiber-playground",
+    "type": "project",
+    "authors": [
+        {
+            "name": "azjezz",
+            "email": "azjezz@protonmail.com"
+        }
+    ],
+    "require": {}
+}
